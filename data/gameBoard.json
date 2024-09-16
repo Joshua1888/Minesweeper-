@@ -1,0 +1,95 @@
+{
+    "numofBomb": 2,
+    "col": 3,
+    "numOfCellDetected": 2,
+    "isProgramRunning": true,
+    "cellInTotal": 9,
+    "numberofMine": 9,
+    "numberOfRow": 3,
+    "listOfBombs": [
+        {
+            "numOfBombNear": 0,
+            "ypos": 1,
+            "xpos": 2,
+            "isBomb": true,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 2,
+            "xpos": 0,
+            "isBomb": true,
+            "clicked": false
+        }
+    ],
+    "listOfMine": [
+        {
+            "numOfBombNear": 0,
+            "ypos": 0,
+            "xpos": 0,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 1,
+            "ypos": 0,
+            "xpos": 1,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 1,
+            "ypos": 0,
+            "xpos": 2,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 1,
+            "ypos": 1,
+            "xpos": 0,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 2,
+            "ypos": 1,
+            "xpos": 1,
+            "isBomb": false,
+            "clicked": true
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 1,
+            "xpos": 2,
+            "isBomb": true,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 2,
+            "xpos": 0,
+            "isBomb": true,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 2,
+            "ypos": 2,
+            "xpos": 1,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 1,
+            "ypos": 2,
+            "xpos": 2,
+            "isBomb": false,
+            "clicked": true
+        }
+    ],
+    "score": 3,
+    "legit": true,
+    "numberOfColumn": 3,
+    "row": 3,
+    "win": false
+}

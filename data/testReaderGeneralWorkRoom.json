@@ -1,0 +1,221 @@
+{
+    "numofBomb": 8,
+    "col": 8,
+    "numOfCellDetected": 8,
+    "isProgramRunning": true,
+    "cellInTotal": 8,
+    "numberofMine": 25,
+    "numberOfRow": 5,
+    "listOfBombs": [
+        {
+            "numOfBombNear": 0,
+            "ypos": 0,
+            "xpos": 0,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 0,
+            "xpos": 0,
+            "isBomb": false,
+            "clicked": false
+        }
+    ],
+    "listOfMine": [
+        {
+            "numOfBombNear": 0,
+            "ypos": 0,
+            "xpos": 0,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 0,
+            "xpos": 1,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 0,
+            "xpos": 2,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 0,
+            "xpos": 3,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 0,
+            "xpos": 4,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 1,
+            "xpos": 0,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 1,
+            "xpos": 1,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 1,
+            "xpos": 2,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 1,
+            "xpos": 3,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 1,
+            "xpos": 4,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 2,
+            "xpos": 0,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 2,
+            "xpos": 1,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 2,
+            "xpos": 2,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 2,
+            "xpos": 3,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 2,
+            "xpos": 4,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 3,
+            "xpos": 0,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 3,
+            "xpos": 1,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 3,
+            "xpos": 2,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 3,
+            "xpos": 3,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 3,
+            "xpos": 4,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 4,
+            "xpos": 0,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 4,
+            "xpos": 1,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 4,
+            "xpos": 2,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 4,
+            "xpos": 3,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 4,
+            "xpos": 4,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 0,
+            "xpos": 0,
+            "isBomb": false,
+            "clicked": false
+        },
+        {
+            "numOfBombNear": 0,
+            "ypos": 0,
+            "xpos": 0,
+            "isBomb": false,
+            "clicked": false
+        }
+    ],
+    "score": 8,
+    "legit": true,
+    "numberOfColumn": 5,
+    "row": 8,
+    "win": true
+}
